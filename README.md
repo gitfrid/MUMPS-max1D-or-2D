@@ -120,8 +120,8 @@ _________________________________________
 <br>
 <img src=https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D)%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.png width="1280" height="auto">
 <br>
-[Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D)%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.html) 1980-2023
-[Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D)%20MUMPS%20vaccination_vs_reported_cases_dropdown_2000-2023.html) 2000-2023
+[Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D%29%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.html) 1980-2023
+[Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D%29%20MUMPS%20vaccination_vs_reported_cases_dropdown_2000-2023.html) 2000-2023
 <br>
 _________________________________________
 
