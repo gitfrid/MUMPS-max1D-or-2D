@@ -105,7 +105,7 @@ _________________________________________
 
 **Falling Coverage and Rising Cases:**
 <br>
-<img src=https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/B%29%20MUMPS%20falling%20vac%20coverage%20and%20falling%20cases%20trend%201980-2023.png width="1280" height="auto">
+<img src=https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/B)%20MUMPS%20falling%20vac%20coverage%20and%20rising%20cases%20trend%201980-2023.png width="1280" height="auto">
 <br>
 
 [Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/B%29%20MUMPS%20falling%20vac%20coverage%20and%20rising%20cases%20trend%201980-2023.html) 1980-2023
