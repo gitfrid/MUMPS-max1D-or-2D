@@ -62,7 +62,7 @@ To select or deselect all countries, double-click on the legend. To select a sin
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories ,DTP-containing vac 3rd Dose 2000-2023:
+### Vax coverage vs case incidence rate for differnt counties including trend line categories ,MMR-containing vac max(1st or 2nd Dose) 1980-2023:
     Rising Coverage and Rising Cases:
     Falling Coverage and Falling Cases:
     Rising Coverage and Falling Cases:
