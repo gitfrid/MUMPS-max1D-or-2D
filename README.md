@@ -113,19 +113,15 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs mumps case incidence rate for differnt counties including trend line categories , <br>MMR-containing vac max(1st or 2nd Dose) for years 1980-2023:
-
+### Mumps Vax coverage vs case incidence rate for differnt counties including trend line, <br>MMR-containing vac max(1st or 2nd Dose) for years 1980-2023:
+.
 <br>
 <br>Includes Dropdown menu for easy selection: 
 <br>
-<img src=https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D)%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.png width="1280" height="auto">
-<br>
+<img src=https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D%29%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.png width="1280" height="auto">
 <br>
 [Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D%29%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.html) 1980-2023
-<br>
-<br>
 [Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D%29%20MUMPS%20vaccination_vs_reported_cases_dropdown_2000-2023.html) 2000-2023
-<br 
+<br> 
+<br>
 _________________________________________
-
-
