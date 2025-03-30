@@ -70,7 +70,7 @@ _________________________________________
 
 <br>
 
-Phyton script [B) PERT.py](https://github.com/gitfrid/PERT-py/blob/main/B%29%20PERT.py) for visualizing the downloaded CSV data with trend lines 
+Phyton script [B) MUMPS.py](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/B%29%20MUMPS.py) for visualizing the downloaded CSV data with trend lines 
 <br>
 
 
