@@ -113,7 +113,7 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories , <br>MMR-containing vac max(1st or 2nd Dose) for years 1980-2023:
+### Vax coverage vs mumps case incidence rate for differnt counties including trend line categories , <br>MMR-containing vac max(1st or 2nd Dose) for years 1980-2023:
 
 <br>
 <br>Includes Dropdown menu for easy selection: 
