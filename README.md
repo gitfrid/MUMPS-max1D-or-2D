@@ -43,7 +43,7 @@ The causal effect estimation gives a numerical value indicating how much the out
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties, MMR-containing max(1st or 2nd Dose)
+### Vax coverage vs Mumps case incidence rate for differnt counties, MMR-containing max(1st or 2nd Dose)
 
 Phyton script [A) MUMPS.py](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/A%29%20MUMPS.py) for visualizing the downloaded CSV data
 
