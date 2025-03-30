@@ -4,7 +4,7 @@
 
 Case incidence rate per 1M
 [Download Link immunizationdata.who.int](https://immunizationdata.who.int/global/wiise-detail-page/mumps-reported-cases-and-incidence?GROUP=Countries&YEAR=)
-<br>Vac coverage official Numbers Pertussis-containing vaccine 2d Dose
+<br>Vac coverage official Numbers MMR-containing vaccine max(1st or 2d Dose)
 [Download Link immunizationdata.who.int](https://immunizationdata.who.int/global/wiise-detail-page/measles-vaccination-coverage?CODE=ISR&ANTIGEN=MCV2&YEAR=)
 <br>[The recommended case definitions](https://www.who.int/publications/m/item/vaccine-preventable-diseases-surveillance-standards-mumps)
 ### Disclaimer:
