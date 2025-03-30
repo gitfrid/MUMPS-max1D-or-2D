@@ -11,7 +11,7 @@ Case incidence rate per 1M
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
 _________________________________________
 
-### Dowhy causal impact estimation vax coverage on case incidence rate for differnt counties, <br>MMR-containing vac max (1st or 2nd Dose)
+### Dowhy causal impact estimation vax coverage on case incidence rate for differnt countries, <br>MMR-containing vac max (1st or 2nd Dose)
 
 <br>
 <p>DoWhy is a Python library for causal inference that allows modeling and testing of causal assumptions, based on a unified language for causal inference.
@@ -43,7 +43,7 @@ The causal effect estimation gives a numerical value indicating how much the out
 _________________________________________
 <br>
 
-### Vax coverage vs Mumps case incidence rate for differnt counties, MMR-containing max(1st or 2nd Dose)
+### Vax coverage vs Mumps case incidence rate for differnt countries, MMR-containing max(1st or 2nd Dose)
 
 Phyton script [A) MUMPS.py](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/A%29%20MUMPS.py) for visualizing the downloaded CSV data
 
@@ -62,7 +62,7 @@ To select or deselect all countries, double-click on the legend. To select a sin
 _________________________________________
 <br>
 
-### Vax coverage vs mumps case incidence rate for differnt counties including trend line categories ,MMR-containing vac max(1st or 2nd Dose) 1980-2023:
+### Vax coverage vs mumps case incidence rate for differnt countries including trend line categories ,MMR-containing vac max(1st or 2nd Dose) 1980-2023:
     Rising Coverage and Rising Cases:
     Falling Coverage and Falling Cases:
     Rising Coverage and Falling Cases:
@@ -113,10 +113,10 @@ _________________________________________
 _________________________________________
 <br>
 
-### Mumps Vax coverage vs case incidence rate for differnt counties including trend line, <br>MMR-containing vac max(1st or 2nd Dose) for years 1980-2023:
+### Mumps Vax coverage vs case incidence rate for differnt countries, <br>MMR-containing vac max(1st or 2nd Dose) for years 1980-2023:
 .
 <br>
-<br>Includes Dropdown menu for easy selection: 
+<br>**Includes Dropdown menu for easy selection:** 
 <br>
 <img src=https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D%29%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.png width="1280" height="auto">
 <br>
