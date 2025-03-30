@@ -113,17 +113,15 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories , <br>DTP-containing vac 3rd Dose for years 1980-2023:
+### Vax coverage vs case incidence rate for differnt counties including trend line categories , <br>MMR-containing vac max(1st or 2nd Dose) for years 1980-2023:
 
-Warning: In order to compare the trends, M-containing vac 1st Dose from 1980 onwards would also have to be taken into account, which are not included here!
 <br>
 <br>Includes Dropdown menu for easy selection: 
 <br>
-<img src=https://github.com/gitfrid/PERT-py/blob/main/D%29%20PERT%20vaccination_vs_reported_cases_dropdown_1980_2023.png width="1280" height="auto">
+<img src=https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D)%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.png width="1280" height="auto">
 <br>
-[Download interactive html](https://github.com/gitfrid/PERT-py/blob/main/D%29%20PERT%20vaccination_vs_reported_cases_dropdown_1980-2023.html) 1980-2023
-[Download interactive html](https://github.com/gitfrid/PERT-py/blob/main/D%29%20PERT%20vaccination_vs_reported_cases_dropdown_2000-2023.html) 2000-2023
-<br>Download Trends 1980-2023 as interactive HTML-Files from [root directory](https://github.com/gitfrid/PERT-py/tree/main) for visualizing the downloaded CSV data with trend lines 
+[Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D)%20MUMPS%20vaccination_vs_reported_cases_dropdown_1980-2023.html) 1980-2023
+[Download interactive html](https://github.com/gitfrid/MUMPS-max1D-or-2D/blob/main/D)%20MUMPS%20vaccination_vs_reported_cases_dropdown_2000-2023.html) 2000-2023
 <br>
 _________________________________________
 
